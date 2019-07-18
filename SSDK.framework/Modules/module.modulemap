@@ -1,6 +1,0 @@
-framework module SSDK {
-  umbrella header "SSDK.h"
-
-  export *
-  module * { export * }
-}
