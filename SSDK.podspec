@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
 spec.name         = "SSDK"
-spec.version      = "1.0.0"
+spec.version      = "1.0.1"
 spec.summary      = "SSDk is a networking tool"
 spec.description  = "This is a demo to test the use of static libraries and release it to cocoaPod"
 
